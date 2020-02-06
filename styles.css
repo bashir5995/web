@@ -1,0 +1,26 @@
+body{
+    background-color : #ffdead; ;
+    <!ffdead;>
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 4%;
+}
+img{
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 80%;
+  padding: 3px;
+}
+h1{
+  color: #66BFBF
+}
+h2{
+  color: #66BFBF
+}
+h3{
+  color: #66BFBF
+}
